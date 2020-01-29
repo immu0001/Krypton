@@ -1,4 +1,3 @@
-Project description
 # Krypton-0001 package
 
 This package provides the Gaussian distribution and Binomial distribution classes.
