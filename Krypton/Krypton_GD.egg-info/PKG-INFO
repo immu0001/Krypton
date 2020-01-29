@@ -1,13 +1,13 @@
 Metadata-Version: 2.1
 Name: Krypton-GD
-Version: 1.0.0
+Version: 1.0.1
 Summary: A small package to add up two gaussian distributions together
 Home-page: https://github.com/immu0001/Krypton
 Author: Imran S M
 Author-email: imran.malik01@icloud.com
 License: UNKNOWN
 Description: Project description
-        # Krypton-0001 package
+        # Krypton-GD package
         
         This package provides the Gaussian distribution and Binomial distribution classes.
         
