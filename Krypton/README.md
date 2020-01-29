@@ -1,4 +1,4 @@
-# Krypton-0001 package
+# Krypton-GD package
 
 This package provides the Gaussian distribution and Binomial distribution classes.
 
