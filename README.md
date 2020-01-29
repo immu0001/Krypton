@@ -82,3 +82,7 @@ __repr__() - Function to output the characteristics of the Binomial instance.
 * The code should run with no issues using Python versions 3.*.
 * No extra besides the built-in libraries from Anaconda needed to run this project
 Math
+* Matplotlib
+## Link:
+PyPI : https://pypi.org/project/Krypton-GD/
+Or use: pip install Krypton-GD
