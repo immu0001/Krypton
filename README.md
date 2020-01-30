@@ -85,4 +85,5 @@ Math
 * Matplotlib
 ## Link:
 PyPI : https://pypi.org/project/Krypton-GD/
+
 Or use: pip install Krypton-GD.
