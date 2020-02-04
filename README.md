@@ -13,6 +13,7 @@ data_list (list of floats) - a list of floats extracted from the data file.
 calculate_mean() - Function to calculate the mean of the data set.
 
 calculate_stdev() - Function to calculate the standard deviation of the data set.
+
 plot_histogram() - Function to output a histogram of the instance variable data using matplotlib pyplot library.
 read_data_file(filename) - Function to read in data from a txt file. The txt file should have one number (float) per line. The numbers are stored in the data attribute.
 pdf(x) - Probability density function calculator for the gaussian distribution
