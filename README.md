@@ -19,9 +19,11 @@ plot_histogram() - Function to output a histogram of the instance variable data 
 read_data_file(filename) - Function to read in data from a txt file. The txt file should have one number (float) per line.
 The numbers are stored in the data attribute.
 
-pdf(x) - Probability density function calculator for the gaussian distribution
-Args:
+pdf(x) - Probability density function calculator for the gaussian distribution.
+
+### Arguments:
 x (float): point for calculating the probability density function
+
 Returns:
 float: probability density function output
 plot_histogram_pdf(n_spaces = 50) - Function to plot the normalized histogram of the data and a plot of the probability density function along the same range
