@@ -89,4 +89,4 @@ Math
 PyPI : https://pypi.org/project/Krypton-GD/
 
 Or use:
-## pip install Krypton-GD.
+### pip install Krypton-GD.
