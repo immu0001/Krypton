@@ -83,7 +83,7 @@ __repr__() - Function to output the characteristics of the Binomial instance.
 ::::'
 * Generaldistribution.py - contains Distribution class, its attributes and methods being inherited by Gaussian and Binomial class.
 * Gaussiandistribution.py - contains Gaussian class, its attributes and methods stated above in udc-dsnd-distributions package summary.
-* Binomialdistribution.py - contains Binomial class, its attributes and methods stated above in udc-dsnd-distributions package summary.
+* Binomialdistribution.py - contains Binomial class, its attributes and methods stated above in udc-dsnd-distributions package summary..
 
 ## Installation
 * The code should run with no issues using Python versions 3.*.
