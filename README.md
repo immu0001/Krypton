@@ -39,7 +39,7 @@ Returns:
 Gaussian: Gaussian distribution
 __repr__() - Function to output the characteristics of the Gaussian instance
 
-
+..
 * Binomial - Binomial distribution class for calculating and visualizing a Binomial distribution.
 Attributes:
 mean (float) representing the mean value of the distribution
@@ -96,4 +96,4 @@ PyPI : https://pypi.org/project/Krypton-GD/
 Or use:
 ### pip install Krypton-GD.
 ..... .. .  ......... .. . ......... ................. ............................................,,,,,........ .................................. .. . ..... . .. . .. . .. . . ..
-...
+... but
