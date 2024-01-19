@@ -20,7 +20,7 @@ read_data_file(filename) - Function to read in data from a txt file. The txt fil
 The numbers are stored in the data attribute.
 
 pdf(x) - Probability density function calculator for the gaussian distribution.
-
+..
 ### Arguments:
 x (float): point for calculating the probability density function
 
