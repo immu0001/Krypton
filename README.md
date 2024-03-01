@@ -53,7 +53,7 @@ calculate_mean() - Function to calculate the mean from p and n
 calculate_stdev() - Function to calculate the standard deviation from p and n.
 read_data_file(filename) - Function to read in data from a txt file. The txt file should have one number (float) per line. The numbers are stored in the data attribute.
 replace_stats_with_data() - Function to calculate p and n from the data set
-Args:
+Args:..
 None
 Returns:
 float: the p value
